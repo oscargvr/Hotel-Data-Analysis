@@ -1,7 +1,8 @@
 # Hotel-Data-Analysis
-Goal: Develop a Database to Analyze &amp; Visualize Hotel Booking Data.
+--Goal--
+Develop a Database to Analyze &amp; Visualize Hotel Booking Data.
 
-Requirements:
+--Requirements--
 Build a visual data story or dashboard using Power BI to present to stakeholders answering the following:
 
 - Is the hotel revenue growing by year?
